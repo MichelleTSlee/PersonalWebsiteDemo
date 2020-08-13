@@ -1,0 +1,91 @@
+body {
+  background-color: #ffdecf;
+  text-align: center;
+  font-family: "Georgia", serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+
+#top-flower {
+  width: 75px;
+  height: 75px;
+}
+
+h1 {
+  margin-top: 20px;
+  font-family: "Marck Script", cursive;
+  font-size: 4rem;
+}
+
+#bottom-flower {
+  width: 75px;
+  height: 75px;
+}
+
+
+#coffee_cup {
+  width: 200px;
+  height: 200px;
+  }
+
+
+h2 {
+  color: #f0ece3;
+  font-family: "Merriweather", serif;
+  padding-top: 30px;
+}
+
+
+.middle-container {
+  background-color: #ba7967;
+  border: solid 1px;
+  position: relative;
+  padding-top: 30px;
+}
+
+.bottom-container {
+  background-color: #c7b198;
+  border: solid 1px;
+  position: relative;
+  padding-top: 50px;
+}
+
+.about_row {
+  width: 50%;
+  margin: 50px auto 250px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.preferences_row {
+  width: 50%;
+  margin: 50px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.motto_row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.middle_images {
+  width: 30%;
+  height: 50%;
+  margin: auto 30px auto auto;
+  float: left;
+}
+
+.happy {
+  font-weight: bold;
+}
+
+a {
+  color: #596e79;
+}
